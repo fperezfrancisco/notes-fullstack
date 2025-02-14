@@ -10,4 +10,7 @@ notes-backend/node_modules
 notes-frontend/.env 
 notes-backend/.env
 
+notes-frontend/dist/
+notes-backend/dist/
+
 .DS_Store 
